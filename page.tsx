@@ -1,6 +1,8 @@
+'use client';
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
 
+// [PASTE ALL THE DASHBOARD CODE HERE]
 // Classic Version - Exact copy of the original
 const ExactLoanDashboard = () => {
   return (
